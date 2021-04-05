@@ -1,8 +1,3 @@
----
-output: 
-  html_document: 
-    keep_md: yes
----
 # Topic 4:  Biomedical Image Analysis
 
 Supervisors: 
